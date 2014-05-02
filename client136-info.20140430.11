@@ -1,0 +1,16 @@
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:32.984272 +0000	1398856712	null:null	0	["alarm_handler",58,32,"{set,{{disk_almost_full,\"/lib\"},[]}}"]
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:32.984593 +0000	1398856712	null:null	0	["alarm_handler",58,32,"{set,{{disk_almost_full,\"/sbin\"},[]}}"]
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:32.984863 +0000	1398856712	null:null	0	["alarm_handler",58,32,"{set,{{disk_almost_full,\"/usr\"},[]}}"]
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:32.985120 +0000	1398856712	null:null	0	["alarm_handler",58,32,"{set,{{disk_almost_full,\"/lib/libc.so.1\"},[]}}"]
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:37.824081 +0000	1398856717	null:null	0	Application bitcask started on node 'storage_0@10.96.102.136'
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:37.976024 +0000	1398856717	null:null	0	Application leo_ordning_reda started on node 'storage_0@10.96.102.136'
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:40.460152 +0000	1398856720	null:null	0	Application leo_statistics started on node 'storage_0@10.96.102.136'
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:40.593802 +0000	1398856720	null:null	0	[ snmp : agent : snmp_notification_mib : <0.372.0> ] 
+[NOTIFICATION-MIB]: failed reading config file notify.conf
+   Config Dir: snmp/snmpa_storage_0/agent/conf
+   Reason:     enoent
+
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:40.664308 +0000	1398856720	null:null	0	Application snmp started on node 'storage_0@10.96.102.136'
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:40.801156 +0000	1398856720	null:null	0	Application mnesia started on node 'storage_0@10.96.102.136'
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:40.939914 +0000	1398856720	null:null	0	Application leo_rpc started on node 'storage_0@10.96.102.136'
+[I]	storage_0@10.96.102.136	2014-04-30 11:18:40.940187 +0000	1398856720	null:null	0	Application leo_storage started on node 'storage_0@10.96.102.136'
